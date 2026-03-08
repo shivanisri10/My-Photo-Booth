@@ -2,10 +2,10 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Softbooth 🎀 — Cute Photo Booth',
+  title: 'My Photo Booth 🎀',
   description: 'A dreamy, blush pink photo booth experience. Capture, filter, and download your moments.',
   openGraph: {
-    title: 'Softbooth 🎀',
+    title: 'My Photo Booth 🎀',
     description: 'Your cute digital photo booth',
   },
 }
