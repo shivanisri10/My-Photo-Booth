@@ -1,4 +1,4 @@
-# 🎀 My Photo Booth — Cute Digital Photo Booth
+# 🎀 My Photo Booth - Cute Digital Photo Booth
 
 A dreamy, blush-pink Korean-inspired photo booth web app.
 
