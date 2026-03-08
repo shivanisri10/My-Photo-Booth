@@ -156,7 +156,7 @@ export default function Home() {
             textShadow: '0 0 20px rgba(212,84,122,0.2)',
           }}
         >
-          softbooth 🎀
+          My Photo Booth 🎀
         </h1>
         <p className="text-sm mt-1" style={{ color: '#B08898' }}>
           your dreamy digital photo booth
@@ -373,7 +373,7 @@ export default function Home() {
                   className="text-center mb-5"
                   style={{ fontFamily: "'Dancing Script', cursive", fontSize: 24, color: '#D4547A' }}
                 >
-                  Your strip is ready! 🎀
+                  Your strip is ready! 
                 </h2>
                 <StripPreview stripUrl={finalStripUrl} onRetake={handleStartOver} />
               </>
